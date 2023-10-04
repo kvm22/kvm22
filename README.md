@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**kvm22/kvm22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Kunwar Vabhav Mishra</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
